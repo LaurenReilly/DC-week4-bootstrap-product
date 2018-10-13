@@ -7,3 +7,11 @@
     background-size: cover;
     background-position: center center;
 } */
+
+.bottom {
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
